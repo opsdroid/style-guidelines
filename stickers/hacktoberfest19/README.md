@@ -1,20 +1,14 @@
 # Hactoberfest 2019 opsdroid sticker competition
 
-To submit your entry to [the competition](https://github.com/opsdroid/style-guidelines/issues/3) you must:
+Thank you to everyone who submitted their entry for the [opsdroid 2019 Hacktoberfest sticker competition](https://github.com/opsdroid/style-guidelines/issues/3).
 
- - [Fork and clone this repository](https://help.github.com/en/articles/cloning-a-repository) with git.
- - Create a directory here with your GitHub username.
- - Add a PNG and SVG copy of your design.
- - [Create a Pull Request](https://help.github.com/en/articles/creating-a-pull-request) with your submission.
+The winner will be announced soon!
 
-_Pro tip: Once you've pushed your design to GitHub if you navigate to your [fork](https://help.github.com/en/articles/fork-a-repo), find the image and copy the url of the image you can also embed it in your pull request with markdown._
-
-![](https://i.imgur.com/0hWCiwI.png)
-
-```
-<!-- Example pull request message -->
-
-Here is my submission for the competition!
-
-![](<URL to your image>)
-```
+| User | Design |
+|------|--------|
+| [ajbox](https://github.com/ajbox) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/ajbox/sticker.png) |
+| [Better-Boy](https://github.com/Better-Boy) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/Better-Boy/Sticker_Better-Boy.jpg) |
+| [blindingstars](https://github.com/blindingstars) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/blindingstars/sticker-blindingstars.png) |
+| [IfeanyiEkperi](https://github.com/IfeanyiEkperi) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/Ifeanyiekperi/20191014_215352.png) |
+| [iiCe89](https://github.com/iiCe89) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/iiCe89/Sticker_submission_iiCe89.png) |
+| [Ujjwaldeep](https://github.com/udz-codes) | ![](https://github.com/opsdroid/style-guidelines/raw/master/stickers/hacktoberfest19/Ujjwaldeep/sticker.png) |
