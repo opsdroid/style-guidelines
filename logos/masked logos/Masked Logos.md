@@ -1,9 +1,4 @@
 # Masked Logos
-
-<p >
-  <div align="center" >
- <img width="200" height="200" src="https://github.com/Kanishk-K-U/style-guidelines/blob/master/logos/masked%20logos/logo-light-mask.png">
- <img width="200" height="200" src="https://github.com/Kanishk-K-U/style-guidelines/blob/master/logos/masked%20logos/logo-dark-mask.png">
- <img src="https://github.com/Kanishk-K-U/style-guidelines/blob/master/logos/masked%20logos/logo-wide-light-mask.png">
-    </div>
-</p>
+![Mask Logo Light](logo-light-mask.png)
+![Mask Logo Dark](llogo-dark-mask.png)
+![Mask Logo Wide Light](logo-wide-light-mask.png)
